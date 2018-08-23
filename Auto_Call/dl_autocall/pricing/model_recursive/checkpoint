@@ -1,0 +1,3 @@
+model_checkpoint_path: "my-model-300"
+all_model_checkpoint_paths: "my-model-299"
+all_model_checkpoint_paths: "my-model-300"
